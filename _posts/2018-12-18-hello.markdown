@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "hello"
+date:   2016-02-01 15:08:10 -0500
+img: img/portfolio/hello.png
+modalID: modalHello
+category: Design
+---
+Hello A!
