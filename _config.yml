@@ -17,8 +17,8 @@ title: Akatsuki Beauty
 email: xuxiaoming.verifore@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to AkatsukiBeauty!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://akatsukiakira.me/akatsukiBeauty/" # the subpath of your site, e.g. /blog
+url: "https://akatsukiakira.me/akatsukiBeauty/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AkatsukiBeauty
 github_username: AkatsukiBeauty
 
